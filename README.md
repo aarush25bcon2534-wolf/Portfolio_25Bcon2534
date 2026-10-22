@@ -5,7 +5,7 @@ A responsive portfolio website showcasing my profile, skills, projects and profe
  [portfolio125bcon2534.vercel.app]
 
 
-
+<img width="1192" height="738" alt="image" src="C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2026-10-23 005042.png" />
 
 
 ## Tech Stack
