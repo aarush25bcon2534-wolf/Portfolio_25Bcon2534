@@ -3,7 +3,7 @@ A responsive portfolio website showcasing my profile, skills, projects and profe
 
 ## Live Portfolio
 
-[https://your-name.vercel.app](https://github.com/An6030/portfolio.git)
+
 
 
 
